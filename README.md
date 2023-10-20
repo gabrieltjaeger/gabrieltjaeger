@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center">
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true&theme=dark"
