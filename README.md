@@ -11,11 +11,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <!-- Streak -->
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltjaeger&theme=react&hide_border=false"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltjaeger&theme=react&hide_border=false&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltjaeger&theme=default&hide_border=false"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact" alt="Top Languages" />
@@ -27,11 +27,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <!-- GitHub Stats -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&count_private=true)"
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true&hide_border=false&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true" alt="Gabriel's GitHub Stats" />
@@ -40,11 +40,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <!-- Top Languages -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&layout=compact&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact" alt="Top Languages" />
