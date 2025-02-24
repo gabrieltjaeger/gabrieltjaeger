@@ -27,11 +27,11 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <!-- GitHub Stats -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true&hide_border=false&count_private=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=gabrieltjaeger&show_icons=true" alt="Gabriel's GitHub Stats" />
