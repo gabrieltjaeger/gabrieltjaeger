@@ -18,7 +18,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact" alt="Top Languages" />
+    <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true" alt="Streak Stats" />
   </picture>
  
   <br/>
@@ -47,7 +47,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact" alt="Top Languages" />
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true" alt="Top Languages" />
   </picture>
 </div>
 
