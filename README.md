@@ -12,14 +12,14 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <!-- Streak -->
   <picture>
     <source
-      srcset="https://github-readme-streak-stats-eight.vercel.app?user=gabrieltjaeger&theme=react&hide_border=false&count_private=true"
+      srcset="https://github-readme-streak-stats-eight.vercel.app?user=gabrieltjaeger&theme=react&hide_border=false&count_private=true&exclude_days=Sun%2CSat"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats-eight.vercel.app?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true"
+      srcset="https://github-readme-streak-stats-eight.vercel.app?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true&exclude_days=Sun%2CSat"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="170" src="https://github-readme-streak-stats-eight.vercel.app?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true" alt="Streak Stats" />
+    <img align="center" height="170" src="https://github-readme-streak-stats-eight.vercel.app?user=gabrieltjaeger&theme=default&hide_border=false&count_private=true&exclude_days=Sun%2CSat" alt="Streak Stats" />
   </picture>
  
   <br/>
