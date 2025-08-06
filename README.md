@@ -41,14 +41,14 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <!-- Top Languages -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&layout=compact&count_private=true&hide=html,javascript,css,scss"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&theme=react&show_icons=true&hide_border=false&layout=compact&count_private=true&hide=html%2Cjavascript%2Ccss%2Cscss"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true&hide=html,javascript,css,scss"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true&hide=html%2Cjavascript%2Ccss%2Cscss"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true&hide=html,javascript,css,scss" alt="Top Languages" />
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltjaeger&layout=compact&hide_border=false&count_private=true&hide=html%2Cjavascript%2Ccss%2Cscss" alt="Top Languages" />
   </picture>
 </div>
 
