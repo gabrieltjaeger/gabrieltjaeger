@@ -61,7 +61,7 @@ I am a dedicated developer focused on building high-quality, scalable applicatio
 
 ## My toolbox 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,prisma,postgresql,python,html,css,js,git,github,docker,npm,vscode,ubuntu,r,c,ps&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,prisma,postgresql,php,mysql,python,html,css,js,git,github,docker,npm,vscode,ubuntu,r,c,ps&perline=10)](#)
 
 ## Connect with me
 
