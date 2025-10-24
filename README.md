@@ -2,9 +2,9 @@
 
 # Hi there, I'm Gabriel Trugillo Jaeger! 👋
 
-### Full-Stack Developer | Learning & Building
+### Full-Stack Developer | Building Clean, Scalable Systems
 
-*Bridging web development and network infrastructure with a passion for clean code*
+*Bridging web development and network infrastructure*
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@gabrieltjaeger.com.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltjaeger/)
@@ -86,44 +86,28 @@
 
 ## 🧭 About Me
 
-I'm a **Full-Stack Developer** currently working as a software development intern at **OneWeb Soluções Inteligentes**, where I build business applications using PHP, CakePHP, and MySQL. I also have research experience as a **CNPq scholarship recipient**, having worked on the e-COO project with modern web technologies and conducted network infrastructure research focused on BGP routing and traffic engineering.
+I'm a **Full-Stack Developer** from **Rio Grande, RS – Brazil**, currently working as a software development intern at **OneWeb Soluções Inteligentes**, where I build business applications using PHP, CakePHP, and MySQL. I'm also a **CNPq scholarship recipient**, having worked on the e-COO project with modern web technologies and conducted network infrastructure research focused on BGP routing and traffic engineering.
 
-This unique combination—from application development to network protocols—gives me a distinctive perspective on building systems that are not only functional but also secure, efficient, and well-architected.
+My background spans from **web application development** to **network protocols and security**—giving me a unique perspective on building systems that are functional, secure, and well-architected.
 
-### 💼 Professional Experience
+### 💼 Experience
 
-**Software Developer Intern** @ OneWeb Soluções Inteligentes
+**Software Developer Intern** @ OneWeb Soluções Inteligentes  
+ERP development with **PHP**, **CakePHP**, **MySQL**, **MariaDB** — production applications for real clients.
 
-- Developing ERP implementations with **PHP**, **CakePHP**, **MySQL**, and **MariaDB**
-- Working on production business applications serving real clients
-- Building features with attention to database security and performance
+**Research Scholar** @ e-COO Project (FURG/CNPq)  
+Full-stack development with **React**, **Next.js**, **TypeScript**, **Express.js**, **Tailwind CSS** — open educational resources.
 
-**Research Scholar** @ e-COO Project
-
-- Built full-stack applications with **React**, **Next.js**, **TypeScript**, **Express.js**, and **Tailwind CSS**
-- Contributed to open educational resources platform
-- Collaborated in an academic research environment
-
-**Research Scholar** @ CNPq/FURG - Network Infrastructure
-
-- Investigated BGP routing protocols and traffic engineering techniques
-- Analyzed network security, including prefix hijacking prevention
-- Developed analytical tools using **Python** and statistical methods
-- **Published research** at regional and university conferences
+**Research Scholar** @ CNPq/FURG — Network Infrastructure  
+BGP routing, traffic engineering, prefix hijacking prevention — analytical tools with **Python** — published research.
 
 ### 📄 Publications & Presentations
 
-**["Analisando o impacto e a capacidade de mitigação de sequestro de prefixos com base na conectividade"](https://sol.sbc.org.br/index.php/errc/article/view/25996)**
+**["Analisando o impacto e a capacidade de mitigação de sequestro de prefixos com base na conectividade"](https://sol.sbc.org.br/index.php/errc/article/view/25996)**  
+ERRC 2023 (SBC) — UFRGS, Porto Alegre, RS
 
-- Presented at **ERRC 2023** (Escola Regional de Redes de Computadores) at UFRGS, Porto Alegre - RS
-- Published in SBC (Sociedade Brasileira de Computação) proceedings
-- Regional conference on computer networks
-
-**["Impacto do Sequestro de Prefixos em uma Rede: Como se Defender e Reverter os Efeitos?"](https://mpu.furg.br/anais1/30-mpu-2023/238-1-19anais-mpu-2023-congresso-de-iniciacao-cientifica-cic)**
-
-- Presented at **32º Congresso de Iniciação Científica** and **22ª MPU** (Mostra da Produção Universitária) at FURG
-- **🏆 Awarded "Destaque" (Distinguished Work)** in the Exact and Earth Sciences category
-- Recognized for excellence in undergraduate research (2023)
+**["Impacto do Sequestro de Prefixos em uma Rede: Como se Defender e Reverter os Efeitos?"](https://mpu.furg.br/anais1/30-mpu-2023/238-1-19anais-mpu-2023-congresso-de-iniciacao-cientifica-cic)**  
+32º CIC & 22ª MPU — FURG — **🏆 Distinguished Work Award** (2023)
 
 ### 🛠️ What I Do
 
@@ -134,15 +118,15 @@ This unique combination—from application development to network protocols—gi
 - 📊 Analyze data and create visualizations with **Python** and **R**
 - 🔒 Apply security-conscious development practices informed by network infrastructure knowledge
 
-### 📚 Currently Learning & Growing
+### 📚 Currently Learning
 
-- **Software Architecture & Design Principles** — SOLID, Design Patterns, Clean Architecture, Domain-Driven Design (DDD), and Test-Driven Development (TDD)
-- **AI/ML Integration** — Exploring practical ways to integrate AI capabilities into web applications
-- **Open Source Contribution** — Planning to contribute to meaningful open-source projects
+- **Software Architecture** — SOLID, Design Patterns, Clean Architecture, DDD, TDD
+- **AI Integration** — Practical applications in web systems
+- **Open Source** — Planning first contributions
 
-### 🎯 What Drives Me
+### 🎯 Philosophy
 
-I'm passionate about writing **clean, maintainable code** and understanding systems deeply—not just making things work, but making them work *well*. My background spans from frontend UIs to backend APIs to network protocols, and I believe this breadth helps me build better, more thoughtful software.
+I focus on writing **clean, maintainable code** and understanding systems deeply. My background—from frontend to backend to network protocols—helps me build software that's both functional and well-designed.
 
 ---
 
@@ -193,9 +177,9 @@ I'm passionate about writing **clean, maintainable code** and understanding syst
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm always excited to connect with fellow developers, collaborate on interesting projects, or discuss new opportunities!
+I'm always open to connecting with fellow developers, collaborating on interesting projects, or discussing new opportunities.
 
 <div align="center">
 
@@ -203,6 +187,7 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieltjaeger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltjaeger/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrieltjaeger.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@gabrieltjaeger.com.br)
 
 ### Support My Work
@@ -217,6 +202,6 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 
 <div align="center">
 
-*Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.* ⭐
+*Thanks for visiting! Feel free to explore my repositories.* ⭐
 
 </div>
