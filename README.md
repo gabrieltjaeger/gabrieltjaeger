@@ -8,6 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@gabrieltjaeger.com.br)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltjaeger/)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gabrieltjaeger)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrieltjaeger.com.br)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabrieltjaeger&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
@@ -182,10 +183,18 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 <div align="center">
 
+### Find me on
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieltjaeger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieltjaeger/)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://gabrieltjaeger.com.br)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrieltjaeger.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@gabrieltjaeger.com.br)
+
+### Support My Work
+
+If you find my projects helpful or interesting, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gabrieltjaeger)
 
 </div>
 
