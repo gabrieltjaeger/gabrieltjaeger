@@ -17,7 +17,7 @@
 
 
 <details>
-  <summary style="font-weight: 600;">Estatísticas do GitHub 📊</summary>
+  <summary style="font-weight: 600;">Estatísticas do GitHub</summary>
   <div align="center">  
     <table>
       <tr>
@@ -68,13 +68,17 @@
 
 ---
 
-# Sobre Mim 🧭
+<div align="center">
+
+# Sobre Mim
+
+</div>
 
 Sou um **Desenvolvedor Full-Stack** de **Rio Grande, RS – Brasil**, atualmente trabalhando como estagiário de desenvolvimento de software na [**OneWeb Soluções Inteligentes**](https://www.oneweb.com.br/), onde trabalho na construção e manutenção de aplicações empresariais utilizando PHP, CakePHP e MySQL. Também fui **bolsista do CNPq** durante 3 anos, tendo trabalhado no [projeto e-COO](https://ecoo.org.br/) com tecnologias web modernas e conduzido pesquisas em infraestrutura de redes com foco em roteamento BGP e engenharia de tráfego no grupo SYSTEMS do [C3/FURG](https://c3novo.furg.br/infraestrutura).
 
 Minha experiência abrange desde **desenvolvimento de aplicações web** a **protocolos de rede e segurança**, o que me proporciona uma perspectiva única na construção de sistemas funcionais, seguros e bem arquitetados.
 
-## Experiência 💼
+## Experiência
 
 > **Estagiário de Desenvolvimento de Software** @ OneWeb Soluções Inteligentes (2025-ATUAL):<br/>
 Desenvolvimento de ERP com **PHP**, **CakePHP**, **MySQL**, **MariaDB** para aplicações em produção para clientes reais.
@@ -85,7 +89,7 @@ Desenvolvimento full-stack com **React**, **Next.js**, **TypeScript**, **Express
 > **Pesquisador** @ Grupo SYSTEMS (FURG/CNPq, 2022-2023):<br/>Infraestrutura de Redes:
 Roteamento BGP, engenharia de tráfego, prevenção de sequestro de prefixos onde desenvolvi ferramentas analíticas com **Python**. Pesquisa publicada (mais informações abaixo).
 
-## Publicações e Apresentações 📄
+## Publicações e Apresentações
 
 > **["Analisando o impacto e a capacidade de mitigação de sequestro de prefixos com base na conectividade"](https://sol.sbc.org.br/index.php/errc/article/view/25996)**  
 ERRC 2023 (SBC) - UFRGS, Porto Alegre, RS
@@ -102,19 +106,23 @@ ERRC 2023 (SBC) - UFRGS, Porto Alegre, RS
 - Analiso dados e crio visualizações com **Python** e **R**;
 - Aplico práticas de desenvolvimento com foco em segurança, baseadas em conhecimento de infraestrutura de rede.
 
-## Atualmente aprendendo 📚
+## Atualmente aprendendo
 
 - **Arquitetura de Software**: SOLID, Padrões de Projeto, Arquitetura Limpa, DDD, TDD;
 - **Integração de I.A.**: Aplicações práticas em sistemas web e agentes de I.A.;
 - **Open Source**: Planejando minhas primeiras contribuições.
 
-## Filosofia 🎯
+## Filosofia
 
 Meu foco é escrever **código limpo e de fácil manutenção** e compreender sistemas em profundidade. Minha experiência, desde front-end e back-end até protocolos de rede, me ajuda a construir softwares que sejam tanto funcionais quanto bem projetados.
 
 ---
 
-# Tecnologias e Ferramentas 🛠️
+<div align="center">
+
+# Tecnologias e Ferramentas
+
+</div>
 
 ## Frontend
 
@@ -157,7 +165,11 @@ Meu foco é escrever **código limpo e de fácil manutenção** e compreender si
 
 ---
 
+<div align="center">
+  
 # Vamos nos conectar 🤝
+
+</div>
 
 Estou sempre aberto a me conectar com outros desenvolvedores, colaborar em projetos interessantes ou discutir novas oportunidades.
 
