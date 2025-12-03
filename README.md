@@ -97,7 +97,7 @@ ERRC 2023 (SBC) - UFRGS, Porto Alegre, RS
 > **["Impacto do Sequestro de Prefixos em uma Rede: Como se Defender e Reverter os Efeitos?"](https://mpu.furg.br/anais1/30-mpu-2023/238-1-19anais-mpu-2023-congresso-de-iniciacao-cientifica-cic)**  
 32º CIC & 22ª MPU - FURG - **🏆 Escolhido como destaque na área de CIÊNCIAS EXATAS E DA TERRA** (2023)
 
-## O que eu faço 🛠️
+## O que eu faço
 
 - Construo aplicações web modernas com **React**, **Next.js**, **TypeScript** e **PHP**;
 - Projeto e implemento sistemas backend com **Node.js**, **PHP** e **CakePHP**;
@@ -167,7 +167,7 @@ Meu foco é escrever **código limpo e de fácil manutenção** e compreender si
 
 <div align="center">
   
-# Vamos nos conectar 🤝
+# Vamos nos conectar
 
 </div>
 
